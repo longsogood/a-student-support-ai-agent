@@ -1,0 +1,8 @@
+{"time":"2024-11-28T15:07:32.286084756+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-28T15:07:32.286145561+07:00","level":"INFO","msg":"created symlink","path":"/home/vietlong/Documents/DATN/wandb/run-20241128_150726-a9w0mszv/logs/debug-core.log"}
+{"time":"2024-11-28T15:07:32.391358016+07:00","level":"INFO","msg":"created new stream","id":"a9w0mszv"}
+{"time":"2024-11-28T15:07:32.391401019+07:00","level":"INFO","msg":"stream: started","id":"a9w0mszv"}
+{"time":"2024-11-28T15:07:32.391418787+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"a9w0mszv"}
+{"time":"2024-11-28T15:07:32.391434576+07:00","level":"INFO","msg":"handler: started","stream_id":"a9w0mszv"}
+{"time":"2024-11-28T15:07:32.391424538+07:00","level":"INFO","msg":"sender: started","stream_id":"a9w0mszv"}
+{"time":"2024-11-28T15:07:32.933360403+07:00","level":"INFO","msg":"Starting system monitor"}

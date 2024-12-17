@@ -1,0 +1,15 @@
+{"time":"2024-11-28T15:24:05.284374296+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-28T15:24:05.284389373+07:00","level":"INFO","msg":"created symlink","path":"/home/vietlong/Documents/DATN/backend/wandb/run-20241128_152356-2j40kcbu/logs/debug-core.log"}
+{"time":"2024-11-28T15:24:05.396170928+07:00","level":"INFO","msg":"created new stream","id":"2j40kcbu"}
+{"time":"2024-11-28T15:24:05.39619956+07:00","level":"INFO","msg":"stream: started","id":"2j40kcbu"}
+{"time":"2024-11-28T15:24:05.396218177+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"2j40kcbu"}
+{"time":"2024-11-28T15:24:05.396243474+07:00","level":"INFO","msg":"sender: started","stream_id":"2j40kcbu"}
+{"time":"2024-11-28T15:24:05.396455914+07:00","level":"INFO","msg":"handler: started","stream_id":"2j40kcbu"}
+{"time":"2024-11-28T15:24:06.381618344+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-28T15:26:57.106642654+07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/vietlong/uncategorized/2j40kcbu/file_stream\": unexpected EOF"}
+{"time":"2024-11-28T15:33:36.111000898+07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/vietlong/uncategorized/2j40kcbu/file_stream\": unexpected EOF"}
+{"time":"2024-11-28T15:42:31.778114803+07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/vietlong/uncategorized/2j40kcbu/file_stream\": unexpected EOF"}
+{"time":"2024-11-28T15:59:11.395991956+07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/vietlong/uncategorized/2j40kcbu/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:46242->127.0.0.53:53: i/o timeout"}
+{"time":"2024-11-28T16:04:26.383605393+07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/vietlong/uncategorized/2j40kcbu/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:56139->127.0.0.53:53: i/o timeout"}
+{"time":"2024-11-28T16:04:38.39958836+07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/vietlong/uncategorized/2j40kcbu/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:58296->127.0.0.53:53: i/o timeout"}
+{"time":"2024-11-28T16:22:28.592965794+07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/vietlong/uncategorized/2j40kcbu/file_stream\": unexpected EOF"}

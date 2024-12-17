@@ -1,0 +1,100 @@
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Configure stats pid to 34982
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Loading settings from /home/vietlong/.config/wandb/settings
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Loading settings from /home/vietlong/Documents/DATN/wandb/settings
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_init.py:_log_setup():533] Logging user logs to /home/vietlong/Documents/DATN/wandb/run-20241128_150606-ql6ocp8y/logs/debug.log
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_init.py:_log_setup():534] Logging internal logs to /home/vietlong/Documents/DATN/wandb/run-20241128_150606-ql6ocp8y/logs/debug-internal.log
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x763f242f6950>
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_init.py:init():619] calling init triggers
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_init.py:init():669] starting backend
+2024-11-28 15:06:06,077 INFO    MainThread:34982 [wandb_init.py:init():673] sending inform_init request
+2024-11-28 15:06:06,078 INFO    MainThread:34982 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-11-28 15:06:06,078 INFO    MainThread:34982 [wandb_init.py:init():686] backend started and connected
+2024-11-28 15:06:06,088 INFO    MainThread:34982 [wandb_run.py:_label_probe_notebook():1339] probe notebook
+2024-11-28 15:06:06,089 INFO    MainThread:34982 [wandb_run.py:_label_probe_notebook():1349] Unable to probe notebook: Expecting value: line 1 column 1 (char 0)
+2024-11-28 15:06:06,089 INFO    MainThread:34982 [wandb_init.py:init():781] updated telemetry
+2024-11-28 15:06:06,090 INFO    MainThread:34982 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-28 15:06:06,941 INFO    MainThread:34982 [wandb_init.py:init():867] starting run threads in backend
+2024-11-28 15:06:07,194 INFO    MainThread:34982 [wandb_run.py:_console_start():2456] atexit reg
+2024-11-28 15:06:07,195 INFO    MainThread:34982 [wandb_run.py:_redirect():2305] redirect: wrap_raw
+2024-11-28 15:06:07,195 INFO    MainThread:34982 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2024-11-28 15:06:07,195 INFO    MainThread:34982 [wandb_run.py:_redirect():2395] Redirects installed.
+2024-11-28 15:06:07,212 INFO    MainThread:34982 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-28 15:06:07,219 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:06:07,220 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:03,749 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:03,753 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:03,753 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:03,814 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:03,816 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:03,817 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:05,726 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:05,729 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:05,729 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:05,758 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:05,761 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:05,761 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:06,152 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:06,171 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:06,176 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:06,427 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:06,430 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:06,430 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:06,525 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:06,528 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:06,528 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:06,618 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:06,621 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:06,621 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:07,546 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:07,548 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:07,549 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:07,713 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:07,716 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:07,716 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:07,885 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:07,892 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:07,892 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:08,059 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:08,062 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:08,062 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:08,140 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:08,143 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:08,143 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:08,279 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:08,285 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:08,285 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:08,632 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:24,864 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:24,864 INFO    MainThread:34982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-28 15:07:26,682 INFO    MainThread:34982 [wandb_init.py:_resume_backend():449] resuming backend
+2024-11-28 15:07:26,699 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-11-28 15:07:26,699 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Configure stats pid to 34982
+2024-11-28 15:07:26,699 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Loading settings from /home/vietlong/.config/wandb/settings
+2024-11-28 15:07:26,699 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Loading settings from /home/vietlong/Documents/DATN/wandb/settings
+2024-11-28 15:07:26,699 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-28 15:07:26,699 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-28 15:07:26,700 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-28 15:07:26,700 INFO    MainThread:34982 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-28 15:07:26,700 INFO    MainThread:34982 [wandb_init.py:_log_setup():533] Logging user logs to /home/vietlong/Documents/DATN/wandb/run-20241128_150726-a9w0mszv/logs/debug.log
+2024-11-28 15:07:26,700 INFO    MainThread:34982 [wandb_init.py:_log_setup():534] Logging internal logs to /home/vietlong/Documents/DATN/wandb/run-20241128_150726-a9w0mszv/logs/debug-internal.log
+2024-11-28 15:07:26,700 INFO    MainThread:34982 [wandb_init.py:init():619] calling init triggers
+2024-11-28 15:07:26,700 INFO    MainThread:34982 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2024-11-28 15:07:26,701 INFO    MainThread:34982 [wandb_init.py:init():644] re-initializing run, found existing run on stack: ql6ocp8y
+2024-11-28 15:07:26,706 INFO    MainThread:34982 [wandb_run.py:_finish():2155] finishing run vietlong/uncategorized/ql6ocp8y
+2024-11-28 15:07:26,706 INFO    MainThread:34982 [jupyter.py:save_history():459] not saving jupyter history
+2024-11-28 15:07:26,707 INFO    MainThread:34982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-28 15:07:26,707 INFO    MainThread:34982 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-28 15:07:26,707 INFO    MainThread:34982 [wandb_run.py:_atexit_cleanup():2420] got exitcode: 0
+2024-11-28 15:07:26,707 INFO    MainThread:34982 [wandb_run.py:_restore():2402] restore
+2024-11-28 15:07:26,707 INFO    MainThread:34982 [wandb_run.py:_restore():2408] restore done
+2024-11-28 15:07:32,226 INFO    MainThread:34982 [wandb_run.py:_footer_history_summary_info():3960] rendering history
+2024-11-28 15:07:32,226 INFO    MainThread:34982 [wandb_run.py:_footer_history_summary_info():3992] rendering summary
+2024-11-28 15:07:32,242 INFO    MainThread:34982 [wandb_run.py:_footer_sync_info():3921] logging synced files

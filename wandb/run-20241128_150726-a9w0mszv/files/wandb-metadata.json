@@ -1,0 +1,38 @@
+{
+  "os": "Linux-6.8.0-49-generic-x86_64-with-glibc2.35",
+  "python": "3.11.3",
+  "startedAt": "2024-11-28T08:07:32.251449Z",
+  "program": "/home/vietlong/Documents/DATN/wandb.ipynb",
+  "email": "vietlong685572@gmail.com",
+  "root": "/home/vietlong/Documents/DATN",
+  "host": "vietlong-Aspire-A715-75G",
+  "username": "vietlong",
+  "executable": "/home/vietlong/Documents/DATN/backend/.venv/bin/python",
+  "codePathLocal": "wandb.ipynb",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "NVIDIA GeForce GTX 1650",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "253152550912",
+      "used": "133621030912"
+    }
+  },
+  "memory": {
+    "total": "8148226048"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce GTX 1650",
+      "memoryTotal": "4294967296",
+      "cudaCores": 896,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.2"
+}
